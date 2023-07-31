@@ -4,7 +4,7 @@
 ### Hi there, I'm 🦏 zoocityboy
 
 
-- 🔭 I’m currently working on ... HCI SuperCupo app and a lot of private Flutter/Dart projects 
+- 🔭 I’m currently working on ... SuperCupo, Yettel & platform apps as well as on private Flutter/Dart projects 
 - 👯 I’m looking to collaborate on ... Supabase & Flutter projects
 - 🧘🏻‍♂️ I'm focusing on ... Developer experience on huge Flutter projects (author of VSCode extensions, dart cli apps).
 
