@@ -4,7 +4,8 @@
 ### Hi there, I'm 🦏 zoocityboy
 
 
-- 🔭 I’m currently working on ... SuperCupo, Yettel & platform apps as well as on private Flutter/Dart projects 
+- 🔭 I’m currently working on ... SuperCupo, Yettel Bank & platform apps as well as on private Flutter/Dart projects 
+- co-organizer of Flutter Prague meetup
 - 👯 I’m looking to collaborate on ... Supabase, Flagsmith & other OSS Flutter projects
 - 🧘🏻‍♂️ I'm focusing on ... Developer experience on huge Flutter projects, scaling, and automation (author of VSCode extensions, dart cli apps).
 - ⚡ Fun fact: My little son knows, what a pipeline is!
