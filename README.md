@@ -18,7 +18,12 @@
 #### Author
 
 [![Very Good Open Source][fs_logo]][fs_link]
-[![Manifest Dart SDK][manifest_logo]][manifest_link]
+<a href="https://manifest.build/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://manifest.build/assets/images/logo-light.svg">
+      <img src="https://manifest.build/assets/images/logo-transparent.svg" height="55px" alt="Manifest logo" title="Manifest - The 1-file micro-backend">
+    </picture>
+  </a>
 
 [logo_black]:https://raw.githubusercontent.com/zoocityboy/zoo_brand/main/styles/README/zoocityboy_dark.png#gh-light-mode-only
 [logo_white]: https://raw.githubusercontent.com/zoocityboy/zoo_brand/main/styles/README/zoocityboy_light.png#gh-dark-mode-only
