@@ -18,7 +18,7 @@
 #### Author
 
 [![Very Good Open Source][fs_logo]][fs_link]
-[![Manifest Dart SDK][manifest_logo][manifest_link]]
+[![Manifest Dart SDK][manifest_logo]][manifest_link]
 
 [logo_black]:https://raw.githubusercontent.com/zoocityboy/zoo_brand/main/styles/README/zoocityboy_dark.png#gh-light-mode-only
 [logo_white]: https://raw.githubusercontent.com/zoocityboy/zoo_brand/main/styles/README/zoocityboy_light.png#gh-dark-mode-only
